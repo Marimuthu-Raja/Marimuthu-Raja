@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raja
 #### React and React Native Developer
-![React and React Native Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![React and React Native Developer](https://github.com/Marimuthu-Raja/Marimuthu-Raja/blob/main/banner.jpg)
 
 I'm an aspiring Full Stack Web Developer. I'm interested in ReactJs and have intermediate knowledge in JavaScript and React, Express JS, Django & Django REST Framework. Love to code and love to learn new things.
 
