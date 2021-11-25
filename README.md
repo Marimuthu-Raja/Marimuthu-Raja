@@ -7,6 +7,7 @@ I'm an aspiring Full Stack Web Developer. I'm interested in ReactJs and have int
 ## SKILLS
 #### - ⚛   REACT 
 #### - 📱   REACT NATIVE 
+#### - 💻  Django
 #### - 💻  Node Js
 #### - 🌐  HTML / CSS
 
