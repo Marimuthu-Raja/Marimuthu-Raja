@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marimuthu-raja&label=Profile%20views&color=0e75b6&style=flat" alt="marimuthu-raja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marimuthu-raja" alt="marimuthu-raja" /></a> </p>
-
 - 📫 Reach out to me via **marimuthuraja.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
